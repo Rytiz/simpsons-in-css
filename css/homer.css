@@ -10,7 +10,7 @@
     position: relative;
     width: 94px;
     height: 133px;
-    margin: 0 auto;
+    marg
 }
 
 #homer .head *
@@ -21,17 +21,7 @@
 #homer .head .no-border
 {
     border: none;
-}
 
-#homer .head .body
-{
-    background: #fbd800;
-}
-
-#homer .head .hair1
-{
-    top: 14px;
-    left: 0px;    
     height:13px;
     width:22px;
     border-radius: 22px 22px 0 0;
@@ -47,27 +37,7 @@
 #homer .head .hair2
 {
     top: 8px;
-    left: 9px;    
-    height:16px;
-    width:26px;
-    border-radius: 32px 32px 0 0;
-    -moz-border-radius: 32px 32px 0 0;
-    -webkit-border-radius: 32px 32px 0 0;
-    background: transparent;
-    -webkit-transform: rotate(-27deg);
-    -ms-transform: rotate(-27deg);
-    transform: rotate(-27deg);
-    border-bottom: none;
-}
 
-#homer .head .head-top
-{
-    top: 15px;
-    left: 2px;
-    width: 65px;
-    height: 62px;
-    border-bottom: none;
-    -webkit-transform: rotate(-24deg);
     -ms-transform: rotate(-24deg);
     transform: rotate(-24deg);
     -moz-border-radius: 43% 44% 0 0;
